@@ -1,0 +1,10 @@
+export JAVA_HOME="/home/shadman/Desktop/lab2/jdk1.8.0_181"
+export SPARK_HOME="/home/shadman/Desktop/lab2/spark-2.3.1-bin-hadoop2.7"
+export PATH=$JAVA_HOME/bin:$SPARK_HOME/bin:$PATH
+
+export PYTHONPATH="/home/shadman/anaconda2/lib/python2.7"
+export PATH=$PYTHONPATH/bin:$PATH
+
+
+
+
